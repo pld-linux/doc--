@@ -10,7 +10,7 @@ Version:	3.4.9
 Release:	1
 License:	GPL
 Group:		Development/Tools
-Source0:	ftp://metalab.unc.edu/pub/Linux/apps/doctools/%{name}-%{version}.tar.gz
+Source0:	ftp://ftp.sourceforge.net/pub/sourceforge/docpp/%{name}-%{version}.tar.gz
 Patch0:		%{name}-gcc3.patch
 URL:		http://docpp.sourceforge.net
 BuildRequires:	automake
