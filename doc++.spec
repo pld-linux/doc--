@@ -1,7 +1,7 @@
 Summary:	DOC++ - A Documentation System for C, C++, IDL and Java
 Summary(es):	DOC++ - Un sistema de documentacion para C, C++, IDL y Java
 Summary(fr):	DOC++ - Un gИnИrateur de documentation pour C, C++, IDL et Java
-Summary(pl):	DOC++ - System dokuentacji dla C, C++, IDL oraz Java
+Summary(pl):	DOC++ - System dokumentacji dla C, C++, IDL oraz Java
 Summary(ro):	DOC++ - Generator de documentatii pentru C, C++, IDL si Java
 Summary(ru):	DOC++ - Система документирования исходных текстов для C, C++, IDL и Java
 Summary(sv):	DOC++ - Ett dokumentationsgenereringssystem fЖr C, C++, IDL och Java
