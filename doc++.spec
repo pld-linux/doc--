@@ -27,12 +27,6 @@ sophisticated online browsing of your documentation. The documentation
 is extracted directly from the C/C++/IDL header/source files or Java
 class files.
 
-%description -l pl
-DOC++ is jest systemem dokumentacji dla C, C++, IDL oraz Java, generuj±cym
-zarówno pliki TeX dla wysokiej jako¶ci wydruku i HTML dla wyszukanego
-przegl±dania twojej dokumentacji. Dokumentacja jest tworzona bezpo¶rednio
-z kodu C/C++/IDL lub klas Javy.
-
 %description -l es
 DOC++ es un sistema de documentacion para C, C++, IDL y Java, que
 genera textos en TeX para crear copias de alta calidad de la
@@ -46,6 +40,12 @@ peut générer au choix un document TeX pour produire une documentation
 imprimée de qualité, ou un fichier HTML pour un parcours en-ligne aisé
 de la documentation. La documentation est extraite directement du
 fichier d'en-tête C/C++/IDL ou du fichier des classes Java.
+
+%description -l pl
+DOC++ is jest systemem dokumentacji dla C, C++, IDL oraz Java,
+generuj±cym zarówno pliki TeX dla wysokiej jako¶ci wydruku i HTML dla
+wyszukanego przegl±dania w³asnej dokumentacji. Dokumentacja jest
+tworzona bezpo¶rednio z kodu C/C++/IDL lub klas Javy.
 
 %description -l ro
 DOC++ este un generator de documentatii pentru C, C++, IDL si Java,
