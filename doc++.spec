@@ -11,6 +11,7 @@ Release:	1
 License:	GPL
 Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/docpp/%{name}-%{version}.tar.gz
+# Source0-md5:	e7d7d2005acaf1bf23e7ce63180f0c2d
 Patch0:		%{name}-gcc3.patch
 URL:		http://docpp.sourceforge.net/
 BuildRequires:	automake
