@@ -6,13 +6,12 @@ Summary(ro):	DOC++ - Generator de documentatii pentru C, C++, IDL si Java
 Summary(ru):	DOC++ - Система документирования исходных текстов для C, C++, IDL и Java
 Summary(sv):	DOC++ - Ett dokumentationsgenereringssystem fЖr C, C++, IDL och Java
 Name:		doc++
-Version:	3.4.9
+Version:	3.4.10
 Release:	1
 License:	GPL
 Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/docpp/%{name}-%{version}.tar.gz
-# Source0-md5:	e7d7d2005acaf1bf23e7ce63180f0c2d
-Patch0:		%{name}-gcc3.patch
+# Source0-md5:	095c7a3a822f00a33033b8bb40147445
 URL:		http://docpp.sourceforge.net/
 BuildRequires:	automake
 BuildRequires:	autoconf
@@ -69,7 +68,6 @@ extraheras direkt frЕn C/C++/IDL-headerfilen eller javaklassfilen.
 
 %prep
 %setup -q
-%patch0 -p1
 
 %build
 %{__gettextize}
