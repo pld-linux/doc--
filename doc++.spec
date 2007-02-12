@@ -1,10 +1,10 @@
 Summary:	DOC++ - A Documentation System for C, C++, IDL and Java
-Summary(es.UTF-8):   DOC++ - Un sistema de documentacion para C, C++, IDL y Java
-Summary(fr.UTF-8):   DOC++ - Un générateur de documentation pour C, C++, IDL et Java
-Summary(pl.UTF-8):   DOC++ - System dokumentacji dla C, C++, IDL oraz Java
-Summary(ro.UTF-8):   DOC++ - Generator de documentatii pentru C, C++, IDL si Java
-Summary(ru.UTF-8):   DOC++ - Система документирования исходных текстов для C, C++, IDL и Java
-Summary(sv.UTF-8):   DOC++ - Ett dokumentationsgenereringssystem för C, C++, IDL och Java
+Summary(es.UTF-8):	DOC++ - Un sistema de documentacion para C, C++, IDL y Java
+Summary(fr.UTF-8):	DOC++ - Un générateur de documentation pour C, C++, IDL et Java
+Summary(pl.UTF-8):	DOC++ - System dokumentacji dla C, C++, IDL oraz Java
+Summary(ro.UTF-8):	DOC++ - Generator de documentatii pentru C, C++, IDL si Java
+Summary(ru.UTF-8):	DOC++ - Система документирования исходных текстов для C, C++, IDL и Java
+Summary(sv.UTF-8):	DOC++ - Ett dokumentationsgenereringssystem för C, C++, IDL och Java
 Name:		doc++
 Version:	3.4.10
 Release:	1
