@@ -1,10 +1,10 @@
 Summary:	DOC++ - A Documentation System for C, C++, IDL and Java
-Summary(es):	DOC++ - Un sistema de documentacion para C, C++, IDL y Java
-Summary(fr):	DOC++ - Un gИnИrateur de documentation pour C, C++, IDL et Java
-Summary(pl):	DOC++ - System dokumentacji dla C, C++, IDL oraz Java
-Summary(ro):	DOC++ - Generator de documentatii pentru C, C++, IDL si Java
-Summary(ru):	DOC++ - Система документирования исходных текстов для C, C++, IDL и Java
-Summary(sv):	DOC++ - Ett dokumentationsgenereringssystem fЖr C, C++, IDL och Java
+Summary(es.UTF-8):   DOC++ - Un sistema de documentacion para C, C++, IDL y Java
+Summary(fr.UTF-8):   DOC++ - Un gц╘nц╘rateur de documentation pour C, C++, IDL et Java
+Summary(pl.UTF-8):   DOC++ - System dokumentacji dla C, C++, IDL oraz Java
+Summary(ro.UTF-8):   DOC++ - Generator de documentatii pentru C, C++, IDL si Java
+Summary(ru.UTF-8):   DOC++ - п║п╦я│я┌п╣п╪п╟ п╢п╬п╨я┐п╪п╣п╫я┌п╦я─п╬п╡п╟п╫п╦я▐ п╦я│я┘п╬п╢п╫я▀я┘ я┌п╣п╨я│я┌п╬п╡ п╢п╩я▐ C, C++, IDL п╦ Java
+Summary(sv.UTF-8):   DOC++ - Ett dokumentationsgenereringssystem fц╤r C, C++, IDL och Java
 Name:		doc++
 Version:	3.4.10
 Release:	1
@@ -26,45 +26,45 @@ sophisticated online browsing of your documentation. The documentation
 is extracted directly from the C/C++/IDL header/source files or Java
 class files.
 
-%description -l es
+%description -l es.UTF-8
 DOC++ es un sistema de documentacion para C, C++, IDL y Java, que
 genera textos en TeX para crear copias de alta calidad de la
-documentaciСn y en HTML para poder navegar por ella. La documentaciСn
+documentaciцЁn y en HTML para poder navegar por ella. La documentaciцЁn
 se extrae directamente de lso ficheros de cabecera C/C++/IDL o de los
 ficheros de clase en Java.
 
-%description -l fr
-DOC++ est un systХme de documentation pour C, C++, IDL et Java. Il
-peut gИnИrer au choix un document TeX pour produire une documentation
-imprimИe de qualitИ, ou un fichier HTML pour un parcours en-ligne aisИ
+%description -l fr.UTF-8
+DOC++ est un systц╗me de documentation pour C, C++, IDL et Java. Il
+peut gц╘nц╘rer au choix un document TeX pour produire une documentation
+imprimц╘e de qualitц╘, ou un fichier HTML pour un parcours en-ligne aisц╘
 de la documentation. La documentation est extraite directement du
-fichier d'en-tЙte C/C++/IDL ou du fichier des classes Java.
+fichier d'en-tц╙te C/C++/IDL ou du fichier des classes Java.
 
-%description -l pl
+%description -l pl.UTF-8
 DOC++ is jest systemem dokumentacji dla C, C++, IDL oraz Java,
-generuj╠cym zarСwno pliki TeX dla wysokiej jako╤ci wydruku i HTML dla
-wyszukanego przegl╠dania wЁasnej dokumentacji. Dokumentacja jest
-tworzona bezpo╤rednio z kodu C/C++/IDL lub klas Javy.
+generujд┘cym zarцЁwno pliki TeX dla wysokiej jakoе⌡ci wydruku i HTML dla
+wyszukanego przeglд┘dania wе┌asnej dokumentacji. Dokumentacja jest
+tworzona bezpoе⌡rednio z kodu C/C++/IDL lub klas Javy.
 
-%description -l ro
+%description -l ro.UTF-8
 DOC++ este un generator de documentatii pentru C, C++, IDL si Java,
 producand iesire atat in format TeX pentru copii de calitate cat si
 HTML pentru navigare on-line prin documentatie. Documentatia este
 extrasa direct din fisierele header/sursa C/C++/IDL sau din fisierele
 de tip clasa Java.
 
-%description -l ru
-DOC++ -- система документирования исходных текстов для языков C, C++,
-IDL и Java. Поддерживается вывод в формате TeX для печати и HTML --
-для создания гипертекстовых справочников. Документация располагается
-непосредственно в исходном тексте, с использованием комментариев
-специального формата.
+%description -l ru.UTF-8
+DOC++ -- я│п╦я│я┌п╣п╪п╟ п╢п╬п╨я┐п╪п╣п╫я┌п╦я─п╬п╡п╟п╫п╦я▐ п╦я│я┘п╬п╢п╫я▀я┘ я┌п╣п╨я│я┌п╬п╡ п╢п╩я▐ я▐п╥я▀п╨п╬п╡ C, C++,
+IDL п╦ Java. п÷п╬п╢п╢п╣я─п╤п╦п╡п╟п╣я┌я│я▐ п╡я▀п╡п╬п╢ п╡ я└п╬я─п╪п╟я┌п╣ TeX п╢п╩я▐ п©п╣я┤п╟я┌п╦ п╦ HTML --
+п╢п╩я▐ я│п╬п╥п╢п╟п╫п╦я▐ пЁп╦п©п╣я─я┌п╣п╨я│я┌п╬п╡я▀я┘ я│п©я─п╟п╡п╬я┤п╫п╦п╨п╬п╡. п■п╬п╨я┐п╪п╣п╫я┌п╟я├п╦я▐ я─п╟я│п©п╬п╩п╟пЁп╟п╣я┌я│я▐
+п╫п╣п©п╬я│я─п╣п╢я│я┌п╡п╣п╫п╫п╬ п╡ п╦я│я┘п╬п╢п╫п╬п╪ я┌п╣п╨я│я┌п╣, я│ п╦я│п©п╬п╩я▄п╥п╬п╡п╟п╫п╦п╣п╪ п╨п╬п╪п╪п╣п╫я┌п╟я─п╦п╣п╡
+я│п©п╣я├п╦п╟п╩я▄п╫п╬пЁп╬ я└п╬я─п╪п╟я┌п╟.
 
-%description -l sv
-DOC++ Дr ett dokumentationsgenereringssystem fЖr C, C++, IDL och Java
-som genererar bЕde TeX-kod fЖr hЖgkvalitativa utskrifter och HTML fЖr
+%description -l sv.UTF-8
+DOC++ ц╓r ett dokumentationsgenereringssystem fц╤r C, C++, IDL och Java
+som genererar bц╔de TeX-kod fц╤r hц╤gkvalitativa utskrifter och HTML fц╤r
 sofistikerad webbvisning av dokumentationen. Dokumentationen
-extraheras direkt frЕn C/C++/IDL-headerfilen eller javaklassfilen.
+extraheras direkt frц╔n C/C++/IDL-headerfilen eller javaklassfilen.
 
 %prep
 %setup -q
