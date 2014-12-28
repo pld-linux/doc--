@@ -15,7 +15,7 @@ Source0:	http://dl.sourceforge.net/docpp/%{name}-%{version}.tar.gz
 URL:		http://docpp.sourceforge.net/
 BuildRequires:	automake
 BuildRequires:	autoconf
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	flex >= 2.5
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
